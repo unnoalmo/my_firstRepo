@@ -4,4 +4,10 @@ class DeleteBook()
 		{
 		System.out.println("DeleteBook");
 		}
+	
+		deleteBookByBM()
+		{
+		System.out.println("deleteBookByBM");
+		}
+	
 	}
