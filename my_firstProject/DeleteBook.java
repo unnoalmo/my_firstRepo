@@ -8,6 +8,13 @@ class DeleteBook()
 		deleteBookByBM()
 		{
 		System.out.println("deleteBookByBM");
+		System.out.println("and by BUC");
+		}
+		
+		deleteBookByMRO()
+		{
+		System.out.println("deleteBookByBUC");	
 		}
 	
 	}
+
